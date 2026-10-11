@@ -12,4 +12,4 @@ jobs:
     - name: Backend linter
       uses: golangci/golangci-lint-action@v9.3.0
       with:
-        working-directory: ./backend/src
+        working-directory: ./backend/src/
